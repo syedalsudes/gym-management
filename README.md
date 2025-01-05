@@ -7,3 +7,5 @@
 #pip install Flask
 
 #url are verry important 
+
+#purpose of this THis website is simple manage gym work 
